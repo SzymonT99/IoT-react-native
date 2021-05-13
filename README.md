@@ -2,7 +2,7 @@
 Application for adding smart home devices.
 
 ## Technologies 
-- Java Script
+- JavaScript
 - React Native
 - React Navigation
 
